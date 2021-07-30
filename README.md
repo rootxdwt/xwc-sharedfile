@@ -32,8 +32,7 @@ the filekey is a exported 128bit AES key encoded in url safe base64(it is genera
 there are some issues but i forgot
 
 ## credits
-made by rootxdwt
-built with reactjs
+built with reactjs by rootxdwt
  ### packages used
  - react-syntax-highlighter https://www.npmjs.com/package/react-syntax-highlighter
  - filename2prism https://www.npmjs.com/package/filename2prism
