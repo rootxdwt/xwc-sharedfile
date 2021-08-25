@@ -8,7 +8,7 @@ source of xwcloud's shared file viewer
 `https://xdcs.me/share/{file id}/{filekey}`
 the filekey is a exported 128bit AES key encoded in url safe base64(it is generated when you press the share button in the file options at the console)
 
-1-1. how does it ACTUALLY work
+1-1
 > - First, your browser will parse the url and check for the file id, key. If the file id is not correct or the key is invalid the page will
   automatically redirect you to `https://xdcs.me`
 > - Second, if everything is valid and good to go, the page will start downloading 5MB chunks from our download endpoint and decrypt each of it.
