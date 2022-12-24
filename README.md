@@ -6,7 +6,7 @@ source of xwcloud's shared file viewer
 
 1-0. basic url structure
 `https://xdcs.me/share/{file id}/{filekey}`
-the filekey is a exported 128bit AES key encoded in url safe base64(it is generated when you press the share button in the file options at the console)
+the filekey is a exported 128bit AES key encoded in url safe base64
 
 ## credits
 built with reactjs by rootxdwt
